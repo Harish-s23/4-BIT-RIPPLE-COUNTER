@@ -48,6 +48,8 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 ![image](https://github.com/user-attachments/assets/6e58ab8d-5063-4f01-afa9-d25333ccc7c2)
 
 
+
+
 **RESULTS**
 
 Thus the 4-bit ripple counter has been executed sucessfully using VERILOG Software.
